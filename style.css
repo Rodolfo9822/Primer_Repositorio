@@ -1,0 +1,6 @@
+body{
+    background-image: url('./space-img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
